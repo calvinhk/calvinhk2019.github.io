@@ -2005,6 +2005,8 @@ input, select, textarea {
 
 	section.special, article.special {
 		text-align: center;
+		display: flex;
+		flex-direction: row;
 	}
 
 	header p {
